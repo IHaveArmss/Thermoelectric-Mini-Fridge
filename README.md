@@ -12,3 +12,9 @@
 | **ANCHAOPU 25mm Micro Fan** | 1x | **Cold-side circulation:** Circulates chilled air inside the enclosure. |
 | **High-Performance Thermal Paste** | - | **Thermal Interface:** Fills microscopic air gaps to maximize heat transfer between the Peltier and heatsinks. |
 | **3D Printer Filament** | ~800g | **Chassis & Enclosure:** Custom-designed Fusion 360 structural casing and insulation housing. |
+
+
+
+
+
+  <img width="977" height="974" alt="image" src="https://github.com/user-attachments/assets/0471bc95-09ab-47c1-8c58-2e8d4b27b9e1" />
